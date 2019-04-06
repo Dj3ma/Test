@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Сalculator</string>
+    <string name="Field1">Number 1</string>
+    <string name="Field2">Number 2</string>
+    <string name="Operation1">Plus</string>
+    <string name="Operation2">Minus</string>
+    <string name="Operation3">Divide</string>
+    <string name="Operation4">Multiple</string>
+    <string name="FloatValues">Use float numbers</string>
+    <string name="SignedValues">Use signed numbers</string>
+    <string name="CalculateButton">Calculate</string>
+    <string name="ResultField">Result</string>
+    <string name="OperationNotFound">Please, choose an operation</string>
+    <string name="clear">Clear</string>
+    <string name="isEmpty">One of the fields is empty</string>
+</resources>
